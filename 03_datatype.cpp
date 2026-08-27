@@ -20,7 +20,14 @@ int main(){
    // boolean (true or false)
    bool student = false;
    bool power = true;
+   bool forsale = false;
 
+   // string  (objects that repersents a sequuence of text like char but multi)
+   std::string name = "bro";
+   std::string day = "friday";
+
+   std::cout<< "name " << name << "\n";
+   std::cout<< "you are " << age << " year old";
 
 
 
